@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 8150e643b44a08440bfe328411f0e201
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cabeza
+    100002: Cola
+    100004: Cola.001
+    100006: Cola.002
+    100008: Cola.003
+    100010: Cola.004
+    100012: Cola.005
+    100014: Cola.006
+    100016: Cola.007
+    100018: Cola.008
+    100020: Columna
+    100022: Columna.001
+    100024: Columna.002
+    100026: Columna.003
+    100028: Columna.005
+    100030: Control de cadera
+    100032: Control de espalda alta
+    100034: Control de ojos
+    100036: "Control de Pesta\xF1as.L"
+    100038: "Control de Pesta\xF1as.R"
+    100040: Controlador de mandibula
+    100042: gato.002
+    100044: //RootNode
+    100046: Huesos_gato
+    100048: Mandibula
+    100050: Muslo_A.L
+    100052: Muslo_A.R
+    100054: Muslo_B.L
+    100056: Muslo_B.R
+    100058: Ojo.L
+    100060: Ojo.L.001
+    100062: Ojo.R
+    100064: Ojo.R.001
+    100066: Oreja.L
+    100068: Oreja.L.001
+    100070: Oreja.R
+    100072: Oreja.R.001
+    100074: Pata_A.L
+    100076: Pata_A.R
+    100078: Pata_B.L
+    100080: Pata_B.R
+    100082: "Pesta\xF1as.L"
+    100084: "Pesta\xF1as.R"
+    100086: Pierna_A.L
+    100088: Pierna_A.L.001
+    100090: Pierna_A.R
+    100092: Pierna_A.R.001
+    100094: Pierna_B.L
+    100096: Pierna_B.L.001
+    100098: Pierna_B.R
+    100100: Pierna_B.R.001
+    100102: Raiz
+    100104: Rodilla_A.L
+    100106: Rodilla_A.R
+    100108: Rodilla_B.L
+    100110: Rodilla_B.R
+    100112: Tobillo_A.L
+    100114: Tobillo_A.R
+    100116: Tobillo_B.L
+    100118: Tobillo_B.R
+    400000: Cabeza
+    400002: Cola
+    400004: Cola.001
+    400006: Cola.002
+    400008: Cola.003
+    400010: Cola.004
+    400012: Cola.005
+    400014: Cola.006
+    400016: Cola.007
+    400018: Cola.008
+    400020: Columna
+    400022: Columna.001
+    400024: Columna.002
+    400026: Columna.003
+    400028: Columna.005
+    400030: Control de cadera
+    400032: Control de espalda alta
+    400034: Control de ojos
+    400036: "Control de Pesta\xF1as.L"
+    400038: "Control de Pesta\xF1as.R"
+    400040: Controlador de mandibula
+    400042: gato.002
+    400044: //RootNode
+    400046: Huesos_gato
+    400048: Mandibula
+    400050: Muslo_A.L
+    400052: Muslo_A.R
+    400054: Muslo_B.L
+    400056: Muslo_B.R
+    400058: Ojo.L
+    400060: Ojo.L.001
+    400062: Ojo.R
+    400064: Ojo.R.001
+    400066: Oreja.L
+    400068: Oreja.L.001
+    400070: Oreja.R
+    400072: Oreja.R.001
+    400074: Pata_A.L
+    400076: Pata_A.R
+    400078: Pata_B.L
+    400080: Pata_B.R
+    400082: "Pesta\xF1as.L"
+    400084: "Pesta\xF1as.R"
+    400086: Pierna_A.L
+    400088: Pierna_A.L.001
+    400090: Pierna_A.R
+    400092: Pierna_A.R.001
+    400094: Pierna_B.L
+    400096: Pierna_B.L.001
+    400098: Pierna_B.R
+    400100: Pierna_B.R.001
+    400102: Raiz
+    400104: Rodilla_A.L
+    400106: Rodilla_A.R
+    400108: Rodilla_B.L
+    400110: Rodilla_B.R
+    400112: Tobillo_A.L
+    400114: Tobillo_A.R
+    400116: Tobillo_B.L
+    400118: Tobillo_B.R
+    2300000: gato.002
+    3300000: gato.002
+    4300000: gato.002
+    7400000: Scene
+    9500000: //RootNode
+    13700000: gato.002
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bigotes.002
+    second: {fileID: 2100000, guid: a0653ecb28067f24f9021638249d0450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: b246eefdf2d715e4fb839813e1242ede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piel.008
+    second: {fileID: 2100000, guid: 9ae7ef37cb14a5c44ad41693ad730268, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: gato_deforme(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Huesos_gato
+      parentName: gato_deforme(Clone)
+      position: {x: -6.85122e-17, y: 0.30855152, z: -0.20626}
+      rotation: {x: 0.000000021855694, y: -1.1102232e-16, z: 1.1102232e-16, w: 1}
+      scale: {x: 34.500114, y: 34.500114, z: 34.500114}
+    - name: Columna
+      parentName: Huesos_gato
+      position: {x: -1.6845407e-10, y: 0.020368638, z: 0.02367863}
+      rotation: {x: 0.9952314, y: -0.022561988, z: 0.022429453, w: 0.09220811}
+      scale: {x: 0.73469985, y: 0.7347001, z: 0.7347002}
+    - name: Columna.001
+      parentName: Columna
+      position: {x: 1.9895197e-15, y: 0.0036997, z: -0.0000000011920929}
+      rotation: {x: 0.014943838, y: 1.4210855e-14, z: -0.0000000035628638, w: 0.9998884}
+      scale: {x: 0.8106008, y: 1.516374, z: 0.81060135}
+    - name: Columna.002
+      parentName: Columna.001
+      position: {x: -1.9895197e-15, y: 0.0017811563, z: -0.0000000011920928}
+      rotation: {x: -0.6298116, y: -0.0012161592, z: -0.03179056, w: 0.77609617}
+      scale: {x: 1.0000008, y: 1.0001127, z: 1.0001132}
+    - name: Muslo_B.L
+      parentName: Huesos_gato
+      position: {x: 0.001523714, y: 0.021151366, z: 0.023497144}
+      rotation: {x: 0.9876946, y: -0.059089653, z: 0.0063676094, w: 0.14466283}
+      scale: {x: 0.73470145, y: 0.7347029, z: 0.7347023}
+    - name: Pierna_B.L
+      parentName: Muslo_B.L
+      position: {x: 2.9802322e-10, y: 0.0032142287, z: 0.0000000013597309}
+      rotation: {x: 0.53543454, y: 0.012278037, z: -0.11932321, w: 0.836015}
+      scale: {x: 1.0000002, y: 1.0000017, z: 0.99999857}
+    - name: Pierna_B.L.001
+      parentName: Pierna_B.L
+      position: {x: -3.7252902e-11, y: 0.0042989915, z: 0.0000000038556753}
+      rotation: {x: -0.40514213, y: -0.042578217, z: 0.03788106, w: 0.91247576}
+      scale: {x: 1.0000007, y: 1.0000008, z: 0.9999985}
+    - name: Muslo_B.R
+      parentName: Huesos_gato
+      position: {x: -0.0015237143, y: 0.021151366, z: 0.023497144}
+      rotation: {x: 0.9876946, y: 0.059089668, z: -0.0063676056, w: 0.14466283}
+      scale: {x: 0.73470145, y: 0.7347028, z: 0.7347023}
+    - name: Pierna_B.R
+      parentName: Muslo_B.R
+      position: {x: 1.4901161e-10, y: 0.003214231, z: 7.4505804e-11}
+      rotation: {x: 0.5354345, y: -0.01227802, z: 0.119323224, w: 0.8360151}
+      scale: {x: 0.9999999, y: 1.0000018, z: 0.9999982}
+    - name: Pierna_B.R.001
+      parentName: Pierna_B.R
+      position: {x: 5.587935e-10, y: 0.004298989, z: 0.0000000014714896}
+      rotation: {x: -0.40514198, y: 0.042578198, z: -0.037881065, w: 0.9124759}
+      scale: {x: 1.0000006, y: 1.000001, z: 0.9999992}
+    - name: Columna.003
+      parentName: Huesos_gato
+      position: {x: 4.885637e-10, y: 0.027910437, z: 0.022720013}
+      rotation: {x: 0.6488475, y: -0.0000000907086, z: -0.000000077348666, w: 0.76091844}
+      scale: {x: 0.73469985, y: 0.73470014, z: 0.73469996}
+    - name: Muslo_A.R
+      parentName: Huesos_gato
+      position: {x: -0.0012810534, y: 0.029379258, z: 0.02196982}
+      rotation: {x: 0.99514914, y: -0.008623835, z: -0.0025164161, w: 0.09796697}
+      scale: {x: 0.7346995, y: 0.73469, z: 0.73469204}
+    - name: Pierna_A.R
+      parentName: Muslo_A.R
+      position: {x: 0.0000000011920929, y: 0.0036173211, z: -0.0000000039115546}
+      rotation: {x: 0.123249955, y: 0.023930797, z: 0.03494241, w: 0.9914716}
+      scale: {x: 1.000001, y: 0.9999991, z: 1.0000021}
+    - name: Pierna_A.R.001
+      parentName: Pierna_A.R
+      position: {x: 0.0000000020209698, y: 0.0030323772, z: 4.4703483e-10}
+      rotation: {x: -0.21450406, y: -0.037446067, z: -0.048749577, w: 0.9747868}
+      scale: {x: 0.9999991, y: 0.99999696, z: 1.0000004}
+    - name: Muslo_A.L
+      parentName: Huesos_gato
+      position: {x: 0.0012810547, y: 0.029379258, z: 0.021969821}
+      rotation: {x: 0.99514914, y: 0.008623846, z: 0.0025163929, w: 0.09796694}
+      scale: {x: 0.7346999, y: 0.7346901, z: 0.7346922}
+    - name: Pierna_A.L
+      parentName: Muslo_A.L
+      position: {x: 7.45058e-10, y: 0.0036173235, z: -0.0000000033155083}
+      rotation: {x: 0.12324996, y: -0.023930736, z: -0.034942426, w: 0.9914716}
+      scale: {x: 1.0000014, y: 0.99999917, z: 1.0000023}
+    - name: Pierna_A.L.001
+      parentName: Pierna_A.L
+      position: {x: -0.0000000014621764, y: 0.0030323672, z: -0.000000003799796}
+      rotation: {x: -0.21450412, y: 0.037446074, z: 0.048749585, w: 0.9747868}
+      scale: {x: 0.9999989, y: 0.999997, z: 1.0000002}
+    - name: Cola
+      parentName: Huesos_gato
+      position: {x: -1.6845407e-10, y: 0.020368638, z: 0.02367863}
+      rotation: {x: -0.2213577, y: -0.00000011625178, z: 0.000000026387584, w: 0.9751927}
+      scale: {x: 0.7347005, y: 0.7347004, z: 0.7346999}
+    - name: Cola.001
+      parentName: Cola
+      position: {x: -7.105427e-17, y: 0.00089954014, z: 0.000000002980232}
+      rotation: {x: -0.013509811, y: 6.394885e-14, z: 0.0000000032209935, w: 0.99990875}
+      scale: {x: 1.0000007, y: 1.0000006, z: 0.99999964}
+    - name: Cola.002
+      parentName: Cola.001
+      position: {x: 7.105427e-16, y: 0.001749813, z: 8.940695e-10}
+      rotation: {x: 0.00000014621764, y: -0.000000007450631, z: 0.605294, w: 0.79600203}
+      scale: {x: 1.0000012, y: 1.0000013, z: 1}
+    - name: Cola.003
+      parentName: Cola.002
+      position: {x: -8.5265126e-16, y: 0.0017012086, z: 0.0000000013411043}
+      rotation: {x: -0.00000021003038, y: -0.000000053943094, z: 0.09827128, w: 0.9951597}
+      scale: {x: 0.99999964, y: 0.9999998, z: 0.99999976}
+    - name: Cola.004
+      parentName: Cola.003
+      position: {x: 8.5265126e-16, y: 0.0013609694, z: 0.000000002533197}
+      rotation: {x: -1.0380523e-30, y: 4.2819498e-14, z: -1.3634898e-14, w: 1}
+      scale: {x: 1.0000006, y: 1.000001, z: 0.9999997}
+    - name: Cola.005
+      parentName: Cola.004
+      position: {x: -6.3948843e-16, y: 0.0011908476, z: 6.3329914e-10}
+      rotation: {x: -1.1796322e-33, y: 4.857226e-17, z: -3.552713e-15, w: 1}
+      scale: {x: 1.0000008, y: 1.000001, z: 1}
+    - name: Cola.006
+      parentName: Cola.005
+      position: {x: -5.684342e-16, y: 0.0014095727, z: 0.0000000023841855}
+      rotation: {x: 7.624436e-29, y: -2.1408014e-14, z: 6.8174484e-15, w: 1}
+      scale: {x: 1.0000008, y: 1.0000008, z: 0.9999998}
+    - name: Cola.007
+      parentName: Cola.006
+      position: {x: 2.1316282e-16, y: 0.0014581784, z: 7.4505785e-10}
+      rotation: {x: -3.5357086e-28, y: 7.3441695e-15, z: -1.7667578e-14, w: 1}
+      scale: {x: 0.9999997, y: 1.0000002, z: 0.99999994}
+    - name: Cola.008
+      parentName: Huesos_gato
+      position: {x: -8.833773e-10, y: 0.012246554, z: 0.023890404}
+      rotation: {x: -0.7071068, y: -0.0000000842937, z: 0.00000008429371, w: 0.7071067}
+      scale: {x: 0.73469985, y: 0.73469996, z: 0.7346997}
+    - name: Columna.005
+      parentName: Huesos_gato
+      position: {x: 7.195819e-10, y: 0.030332144, z: 0.021581098}
+      rotation: {x: 0.5378037, y: -0.00000010050174, z: -0.0000000641112, w: 0.8430701}
+      scale: {x: 0.73469985, y: 0.73469985, z: 0.7347001}
+    - name: Cabeza
+      parentName: Huesos_gato
+      position: {x: 8.045742e-10, y: 0.03124423, z: 0.020916648}
+      rotation: {x: 0.28879207, y: -0.00000011413008, z: -0.00000003442671, w: 0.95739186}
+      scale: {x: 0.7347, y: 0.73469996, z: 0.7347004}
+    - name: Mandibula
+      parentName: Cabeza
+      position: {x: 4.69374e-10, y: 0.0012885552, z: 0.0019686983}
+      rotation: {x: 0.6267699, y: 2.1316282e-14, z: -0.00000014943369, w: 0.7792045}
+      scale: {x: 1.0000007, y: 1.0000014, z: 1.000001}
+    - name: Oreja.L
+      parentName: Cabeza
+      position: {x: -0.0016587952, y: 0.0031137501, z: -0.00081189815}
+      rotation: {x: -0.058140382, y: -0.071093276, z: 0.33800447, w: 0.93665284}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000006}
+    - name: Oreja.R
+      parentName: Cabeza
+      position: {x: 0.0016587952, y: 0.0031137501, z: -0.0008118992}
+      rotation: {x: -0.058140457, y: 0.07109347, z: -0.33800438, w: 0.93665284}
+      scale: {x: 1.0000004, y: 1, z: 1.0000005}
+    - name: Ojo.L
+      parentName: Cabeza
+      position: {x: -0.0009845742, y: 0.0023754602, z: 0.001033651}
+      rotation: {x: 0.47379786, y: -0.098146476, z: 0.08416417, w: 0.8710908}
+      scale: {x: 1.0000011, y: 1.0000002, z: 1.0000004}
+    - name: Ojo.R
+      parentName: Cabeza
+      position: {x: 0.0009845748, y: 0.0023754602, z: 0.0010336504}
+      rotation: {x: 0.47379786, y: 0.09814667, z: -0.08416427, w: 0.8710908}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1.0000004}
+    - name: Control de ojos
+      parentName: Cabeza
+      position: {x: 0.0000000011457958, y: 0.004878962, z: 0.00480582}
+      rotation: {x: 0.47277138, y: 0.00000010504553, z: -0.000000056358786, w: 0.8811852}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000002}
+    - name: Controlador de mandibula
+      parentName: Cabeza
+      position: {x: 7.380889e-10, y: 0.00045790433, z: 0.0039852117}
+      rotation: {x: 0.47277144, y: -7.1054265e-15, z: -0.00000011271752, w: 0.88118505}
+      scale: {x: 1.0000006, y: 3.2285886, z: 1.0000008}
+    - name: "Pesta\xF1as.L"
+      parentName: Cabeza
+      position: {x: -0.0009845742, y: 0.00210836, z: 0.0010855534}
+      rotation: {x: 0.14787005, y: -0.12840275, z: 0.116455175, w: 0.97369677}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000007}
+    - name: "Control de Pesta\xF1as.L"
+      parentName: Cabeza
+      position: {x: -0.0012404424, y: 0.0030063086, z: 0.0013349501}
+      rotation: {x: 0.4727713, y: 0.0000000067171158, z: -0.00000012523735, w: 0.8811852}
+      scale: {x: 1.0000008, y: 1.0000002, z: 1.0000002}
+    - name: "Pesta\xF1as.R"
+      parentName: Cabeza
+      position: {x: 0.0009845749, y: 0.0021083604, z: 0.0010855552}
+      rotation: {x: 0.14787006, y: 0.12840302, z: -0.11645517, w: 0.9736967}
+      scale: {x: 0.9999998, y: 1.0000002, z: 0.99999994}
+    - name: "Control de Pesta\xF1as.R"
+      parentName: Cabeza
+      position: {x: 0.0012404431, y: 0.003006308, z: 0.0013349468}
+      rotation: {x: 0.4727713, y: 0.0000002168081, z: -0.000000012519788, w: 0.8811852}
+      scale: {x: 1.0000008, y: 1.0000002, z: 1.0000002}
+    - name: Oreja.L.001
+      parentName: Huesos_gato
+      position: {x: 0.0020005016, y: 0.034521274, z: 0.020239638}
+      rotation: {x: -0.00000004132719, y: -0.17844753, z: 0.0000000134140405, w: 0.9839494}
+      scale: {x: 0.7347002, y: 0.7346999, z: 0.73470026}
+    - name: Oreja.R.001
+      parentName: Huesos_gato
+      position: {x: -0.0020005002, y: 0.034521274, z: 0.020239638}
+      rotation: {x: -0.00000004842287, y: 0.17844753, z: -0.00000000804532, w: 0.9839494}
+      scale: {x: 0.7346999, y: 0.7346999, z: 0.7347001}
+    - name: Ojo.L.001
+      parentName: Huesos_gato
+      position: {x: 0.0008319777, y: 0.03257503, z: 0.019026581}
+      rotation: {x: 0.7063241, y: -0.033261392, z: -0.03326139, w: 0.7063241}
+      scale: {x: 0.7346999, y: 0.7347004, z: 0.7347005}
+    - name: Ojo.R.001
+      parentName: Huesos_gato
+      position: {x: -0.0008319758, y: 0.03257503, z: 0.019026581}
+      rotation: {x: 0.7063241, y: 0.033261392, z: 0.033261392, w: 0.7063241}
+      scale: {x: 0.7346999, y: 0.7347004, z: 0.7347005}
+    - name: Tobillo_B.L
+      parentName: Huesos_gato
+      position: {x: 0.0012004231, y: 0.016152008, z: 0.02125667}
+      rotation: {x: -0.70710176, y: -0.0026690268, z: 0.0026690264, w: 0.70710176}
+      scale: {x: 1.5284538, y: 1.5284538, z: 1.5284538}
+    - name: Pata_B.L
+      parentName: Tobillo_B.L
+      position: {x: -7.543713e-10, y: 0.000000010366637, z: -0.0000000020465813}
+      rotation: {x: 0.9942593, y: -0.0011594015, z: 0.003273048, w: -0.10694147}
+      scale: {x: 1.0000008, y: 1.000001, z: 0.9999977}
+    - name: Rodilla_B.L
+      parentName: Huesos_gato
+      position: {x: 0.0012288408, y: 0.017313592, z: 0.024165835}
+      rotation: {x: -0.70675045, y: -0.022446001, z: 0.022446005, w: 0.70675045}
+      scale: {x: 0.7347001, y: 0.73470026, z: 0.7347001}
+    - name: Tobillo_A.L
+      parentName: Huesos_gato
+      position: {x: 0.002609168, y: 0.027386064, z: 0.016275143}
+      rotation: {x: -0.70710176, y: -0.0026690278, z: 0.0026690282, w: 0.70710176}
+      scale: {x: 1.4408491, y: 1.4408499, z: 1.4408497}
+    - name: Pata_A.L
+      parentName: Tobillo_A.L
+      position: {x: -0.0000000010430813, y: 0.0000000040605665, z: -0.000000010877847}
+      rotation: {x: 0.99425924, y: -0.0011594039, z: 0.0032730326, w: -0.106941305}
+      scale: {x: 1.0000008, y: 1.0000005, z: 0.99999964}
+    - name: Rodilla_A.L
+      parentName: Huesos_gato
+      position: {x: 0.0024881896, y: 0.026745567, z: 0.018671606}
+      rotation: {x: -0.70675045, y: -0.022446, z: 0.022446001, w: 0.70675045}
+      scale: {x: 0.7346999, y: 0.7347002, z: 0.7347001}
+    - name: Tobillo_B.R
+      parentName: Huesos_gato
+      position: {x: -0.0012004242, y: 0.016152008, z: 0.02125667}
+      rotation: {x: -0.70710176, y: 0.0026690266, z: -0.0026690266, w: 0.70710176}
+      scale: {x: 1.5284538, y: 1.5284538, z: 1.5284538}
+    - name: Pata_B.R
+      parentName: Tobillo_B.R
+      position: {x: 2.8871e-10, y: 0.000000009152023, z: -0.0000000037177232}
+      rotation: {x: 0.9942593, y: 0.0011594018, z: -0.0032730484, w: -0.10694147}
+      scale: {x: 1.0000008, y: 1.000001, z: 0.9999977}
+    - name: Rodilla_B.R
+      parentName: Huesos_gato
+      position: {x: -0.0012288418, y: 0.017313592, z: 0.024165835}
+      rotation: {x: -0.70675045, y: 0.022446001, z: -0.022446005, w: 0.70675045}
+      scale: {x: 0.7347001, y: 0.73470026, z: 0.7347001}
+    - name: Tobillo_A.R
+      parentName: Huesos_gato
+      position: {x: -0.0026091668, y: 0.027386064, z: 0.016275143}
+      rotation: {x: -0.70710176, y: 0.0026690175, z: -0.0026690408, w: 0.70710176}
+      scale: {x: 1.4408481, y: 1.4408492, z: 1.440849}
+    - name: Pata_A.R
+      parentName: Tobillo_A.R
+      position: {x: 0.0000000020861626, y: 0.0000000015646219, z: -0.000000014081597}
+      rotation: {x: 0.99425924, y: 0.001159419, z: -0.0032730442, w: -0.106941305}
+      scale: {x: 1.0000004, y: 1, z: 0.999999}
+    - name: Rodilla_A.R
+      parentName: Huesos_gato
+      position: {x: -0.002488189, y: 0.026745567, z: 0.018671606}
+      rotation: {x: -0.70675045, y: 0.022446, z: -0.022446001, w: 0.70675045}
+      scale: {x: 0.7346999, y: 0.7347002, z: 0.73470014}
+    - name: Control de cadera
+      parentName: Huesos_gato
+      position: {x: -1.6845401e-10, y: 0.020368638, z: 0.02367863}
+      rotation: {x: -0.00000008949303, y: 6.8140167e-15, z: -3.941305e-15, w: 1}
+      scale: {x: 0.73469985, y: 0.73469996, z: 0.73469996}
+    - name: Control de espalda alta
+      parentName: Huesos_gato
+      position: {x: 4.885637e-10, y: 0.027910437, z: 0.022720013}
+      rotation: {x: -0.00000006539497, y: 7.7715874e-15, z: 3.719259e-15, w: 1}
+      scale: {x: 0.73469985, y: 0.73469996, z: 0.73469996}
+    - name: Raiz
+      parentName: Huesos_gato
+      position: {x: 1.0588849e-17, y: 0.020962846, z: 0.0177816}
+      rotation: {x: 0.70710665, y: 2.646978e-23, z: -1.5700923e-16, w: 0.7071069}
+      scale: {x: 0.73469985, y: 0.7346997, z: 0.73469996}
+    - name: gato.002
+      parentName: gato_deforme(Clone)
+      position: {x: -0, y: -0.00000000901591, z: -0.000000028388376}
+      rotation: {x: -0.7071068, y: -2.1212353e-23, z: -1.7279654e-30, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

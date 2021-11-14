@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: f8b9b4394e0839244a4dc52b1101dcb3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cabeza
+    100004: Cola
+    100006: Cola.001
+    100008: Cola.002
+    100010: Cola.003
+    100012: Cola.004
+    100014: Cola.005
+    100016: Cola.006
+    100018: Cola.007
+    100020: Cola.008
+    100022: Columna
+    100024: Columna.001
+    100026: Columna.002
+    100028: Columna.003
+    100030: Columna.005
+    100032: Control de cadera
+    100034: Control de espalda alta
+    100036: Control de ojos
+    100038: "Control de Pesta\xF1as.L"
+    100040: "Control de Pesta\xF1as.R"
+    100042: Controlador de mandibula
+    100044: gato
+    100046: Huesos_gato
+    100048: Mandibula
+    100050: Muslo_A.L
+    100052: Muslo_A.R
+    100054: Muslo_B.L
+    100056: Muslo_B.R
+    100058: Ojo.L
+    100060: Ojo.L.001
+    100062: Ojo.R
+    100064: Ojo.R.001
+    100066: Oreja.L
+    100068: Oreja.L.001
+    100070: Oreja.R
+    100072: Oreja.R.001
+    100074: Pata_A.L
+    100076: Pata_A.R
+    100078: Pata_B.L
+    100080: Pata_B.R
+    100082: "Pesta\xF1as.L"
+    100084: "Pesta\xF1as.R"
+    100086: Pierna_A.L
+    100088: Pierna_A.L.001
+    100090: Pierna_A.R
+    100092: Pierna_A.R.001
+    100094: Pierna_B.L
+    100096: Pierna_B.L.001
+    100098: Pierna_B.R
+    100100: Pierna_B.R.001
+    100102: Raiz
+    100104: Rodilla_A.L
+    100106: Rodilla_A.R
+    100108: Rodilla_B.L
+    100110: Rodilla_B.R
+    100112: Tobillo_A.L
+    100114: Tobillo_A.R
+    100116: Tobillo_B.L
+    100118: Tobillo_B.R
+    400000: //RootNode
+    400002: Cabeza
+    400004: Cola
+    400006: Cola.001
+    400008: Cola.002
+    400010: Cola.003
+    400012: Cola.004
+    400014: Cola.005
+    400016: Cola.006
+    400018: Cola.007
+    400020: Cola.008
+    400022: Columna
+    400024: Columna.001
+    400026: Columna.002
+    400028: Columna.003
+    400030: Columna.005
+    400032: Control de cadera
+    400034: Control de espalda alta
+    400036: Control de ojos
+    400038: "Control de Pesta\xF1as.L"
+    400040: "Control de Pesta\xF1as.R"
+    400042: Controlador de mandibula
+    400044: gato
+    400046: Huesos_gato
+    400048: Mandibula
+    400050: Muslo_A.L
+    400052: Muslo_A.R
+    400054: Muslo_B.L
+    400056: Muslo_B.R
+    400058: Ojo.L
+    400060: Ojo.L.001
+    400062: Ojo.R
+    400064: Ojo.R.001
+    400066: Oreja.L
+    400068: Oreja.L.001
+    400070: Oreja.R
+    400072: Oreja.R.001
+    400074: Pata_A.L
+    400076: Pata_A.R
+    400078: Pata_B.L
+    400080: Pata_B.R
+    400082: "Pesta\xF1as.L"
+    400084: "Pesta\xF1as.R"
+    400086: Pierna_A.L
+    400088: Pierna_A.L.001
+    400090: Pierna_A.R
+    400092: Pierna_A.R.001
+    400094: Pierna_B.L
+    400096: Pierna_B.L.001
+    400098: Pierna_B.R
+    400100: Pierna_B.R.001
+    400102: Raiz
+    400104: Rodilla_A.L
+    400106: Rodilla_A.R
+    400108: Rodilla_B.L
+    400110: Rodilla_B.R
+    400112: Tobillo_A.L
+    400114: Tobillo_A.R
+    400116: Tobillo_B.L
+    400118: Tobillo_B.R
+    4300000: gato
+    7400000: gato_(corriendo)
+    7400002: gato_(reposo)
+    7400004: gato_(reposo).002
+    7400006: gato_(idle_transformandose)
+    7400008: Huesos_gato|Action
+    7400010: Huesos_gato|Armature|mixamo.com|Layer0
+    7400012: Huesos_gato|gato_(corriendo)
+    7400014: Huesos_gato|gato_(corriendo_transformandose)
+    7400016: Huesos_gato|gato_(idle_transformandose)
+    7400018: Huesos_gato|gato_(reposo)
+    7400020: gato|Action
+    7400022: gato|Armature|mixamo.com|Layer0
+    7400024: gato|gato_(idle_transformandose)
+    11100000: //RootNode
+    13700000: gato
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bigotes.002
+    second: {fileID: 2100000, guid: a0653ecb28067f24f9021638249d0450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: b246eefdf2d715e4fb839813e1242ede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: piel.008
+    second: {fileID: 2100000, guid: 9ae7ef37cb14a5c44ad41693ad730268, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

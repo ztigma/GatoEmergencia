@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1760194023150265098
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1760194023150265096}
+  - component: {fileID: 1760194023150265099}
+  m_Layer: 0
+  m_Name: GatoRecipiente
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1760194023150265096
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1760194023150265098}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.042475015, y: 1.3127813, z: 0.506838}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1760194023150265099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1760194023150265098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 692943b1d2177f1ffb4b412d0dcfad16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  CurrentAnima: Animacion_Idle
+  prefab: {fileID: 6595604300964065699, guid: 7b3c2686890e3d21fa90ab8db660b0dc, type: 3}
+  animaModels:
+  - name: Animacion_Ojo
+    CurrentAnimation: {fileID: 7400024, guid: f8b9b4394e0839244a4dc52b1101dcb3, type: 3}
+    AnimaSystem: {fileID: 0}
+  - name: Animacion_Idle
+    CurrentAnimation: {fileID: 7400000, guid: b407b3126fdc3247783e0ccc4a424bde, type: 2}
+    AnimaSystem: {fileID: 0}
+  - name: Animacion_Monster
+    CurrentAnimation: {fileID: 7400000, guid: 79b8c9a41ff88bfbf9d4082d66b76780, type: 2}
+    AnimaSystem: {fileID: 0}
+  - name: Animacion_Run
+    CurrentAnimation: {fileID: 7400000, guid: 6b6c3eb7d5fcda1f9bf9a699f776c633, type: 2}
+    AnimaSystem: {fileID: 0}
